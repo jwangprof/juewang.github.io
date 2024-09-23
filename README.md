@@ -14,7 +14,10 @@
 ![Donut and dsitrbution](https://github.com/user-attachments/assets/d4963aca-735c-4e9d-ae9c-869d61ebeab0)
 
 ---
-## Data Exploration with Python
+<!-- Create a light gray background for the row and bold the text -->
+<div style="background-color:lightgray; padding:10px;">
+  <h2><strong>Data Exploration with Python</strong></h2>
+</div>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jwangprof/Bank_Customer_Churn/blob/main/Bank_Customer_Churn_Part2_EDA.ipynb)
 
