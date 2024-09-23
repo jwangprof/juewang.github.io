@@ -2,11 +2,7 @@
 # **Portfolio**
 
 ---
-
-<!-- Create a light gray background for the row and bold the text -->
-<div style="background-color:lightgray; padding:10px;">
-  <h2><strong>Data Viz</strong></h2>
-</div>
+## **Data Viz**
 
 ![Cust Churn Dashboard](https://github.com/user-attachments/assets/1f0dbe53-0437-496a-a911-8385a72626d2)
 ![Occ_wage](https://github.com/user-attachments/assets/42c621f7-8ba5-4e17-b5c9-79ed2b08d216)
@@ -14,10 +10,7 @@
 ![Donut and dsitrbution](https://github.com/user-attachments/assets/d4963aca-735c-4e9d-ae9c-869d61ebeab0)
 
 ---
-<!-- Create a light gray background for the row and bold the text -->
-<div style="background-color:lightgray; padding:10px;">
-  <h2><strong>Data Exploration with Python</strong></h2>
-</div>
+## **Data Exploratiob with Python**
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jwangprof/Bank_Customer_Churn/blob/main/Bank_Customer_Churn_Part2_EDA.ipynb)
 
