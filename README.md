@@ -4,6 +4,8 @@
 ---
 ## **Data Viz with Tabelau**
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jwangprof/jwangprof.github.io)
+
 ![Cust Churn Dashboard](https://github.com/user-attachments/assets/1f0dbe53-0437-496a-a911-8385a72626d2)
 ![Occ_wage](https://github.com/user-attachments/assets/42c621f7-8ba5-4e17-b5c9-79ed2b08d216)
 ![Tot_emp_map](https://github.com/user-attachments/assets/6ebc4ae8-8570-4777-bf9d-eda20bacab9d)
