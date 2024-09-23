@@ -1,2 +1,12 @@
-title: Jue Wang
+title: <p align="center"> Jue Wang </p>
+
+logo: "/images/IMG_6582.JPG"
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/jue-w-84463817/">LinkedIn</a> |
+  <a href="https://github.com/jwangprof">GitHub</a>
+  </p>
+  
+
 theme: jekyll-theme-minimal
