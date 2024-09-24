@@ -20,7 +20,7 @@
 ![combined](https://github.com/user-attachments/assets/9a9d81f3-9c1f-467c-a286-5ba271bb9f6a)
 
 ## **Word Cloud**
-<div style="text-align: justify">INFORMS Youtube Video Review.</div>
+<div style="text-align: justify">Youtube Video Review: I utilized Python and the NLTK package to perform a sentiment analysis on YouTube video comments. The analysis revealed the most popular words and sentiments in the comments, highlighting viewer reactions to the video content.</div>
 <br>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jwangprof/Review_Sentiment_WordCloud)
