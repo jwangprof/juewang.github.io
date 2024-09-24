@@ -10,7 +10,6 @@
 
 ---
 ## **Data Exploration with Python**
-
 <div style="text-align: justify">This project is a comprehensive EDA on Bank Customer Churn.</div>
 <br>
 
@@ -19,6 +18,7 @@
 ![EDA_numeric_XY](https://github.com/user-attachments/assets/9517b83a-f4f0-4a2f-abd1-de160996126b)
 ![combined](https://github.com/user-attachments/assets/9a9d81f3-9c1f-467c-a286-5ba271bb9f6a)
 
+---
 ## **Word Cloud**
 <div style="text-align: justify">Youtube Video Review: I utilized Python and the NLTK package to perform a sentiment analysis on YouTube video comments. The analysis revealed the most popular words and sentiments in the comments, highlighting viewer reactions to the video content.</div>
 <br>
