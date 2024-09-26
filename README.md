@@ -12,17 +12,14 @@
 <hr />
 
 ## **Data Exploration with Python**
-
-<div style="text-align: justify">EDA on Bank Customer Churn.</div>
-<br>
+<div style="text-align: justify">EDA on Bank Customer Churn</div>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jwangprof/Bank_Customer_Churn/blob/main/Bank_Customer_Churn_Part2_EDA.ipynb)
 
 ![EDA_numeric_XY](https://github.com/user-attachments/assets/9517b83a-f4f0-4a2f-abd1-de160996126b)
 ![combined](https://github.com/user-attachments/assets/9a9d81f3-9c1f-467c-a286-5ba271bb9f6a)
 
-<div style="text-align: justify">EDA on EV Price.</div>
-<br>
+<div style="text-align: justify">EDA on EV Price</div>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jwangprof/EV_Analysis)
 
