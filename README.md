@@ -12,13 +12,21 @@
 <hr />
 
 ## **Data Exploration with Python**
-<div style="text-align: justify">This project is a comprehensive EDA on Bank Customer Churn.</div>
+
+<div style="text-align: justify">EDA on Bank Customer Churn.</div>
 <br>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jwangprof/Bank_Customer_Churn/blob/main/Bank_Customer_Churn_Part2_EDA.ipynb)
 
 ![EDA_numeric_XY](https://github.com/user-attachments/assets/9517b83a-f4f0-4a2f-abd1-de160996126b)
 ![combined](https://github.com/user-attachments/assets/9a9d81f3-9c1f-467c-a286-5ba271bb9f6a)
+
+<div style="text-align: justify">EDA on EV Price.</div>
+<br>
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jwangprof/EV_Analysis)
+
+![combograph](https://github.com/user-attachments/assets/f2c2db91-0cc3-4ff1-ae1b-3871867cad10)
 
 <hr />
 
@@ -29,6 +37,8 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jwangprof/Review_Sentiment_WordCloud)
 
 ![wordcloud](https://github.com/user-attachments/assets/89869252-3f86-463b-af41-7e654d2f15e4)
+
+<hr />
 
 
 ---
