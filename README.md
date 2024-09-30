@@ -27,7 +27,7 @@
 
 <hr />
 
-## **Predictive Model with Python**
+## **Predictive Model with Linear Regression vs. XGBoost**
 <div style="text-align: justify">Price Prediction Based on Features</div>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jwangprof/Price-Prediction)
