@@ -27,6 +27,15 @@
 
 <hr />
 
+## **Predictive Model with Python**
+<div style="text-align: justify">Price Prediction Based on Features</div>
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jwangprof/Price-Prediction)
+
+![combo](https://github.com/user-attachments/assets/1c6b1aec-d929-4f35-86ec-eafdaa41be7f)
+
+<hr />
+
 ## **Word Cloud**
 <div style="text-align: justify">Youtube Video Review: I utilized Python and the NLTK package to perform a sentiment analysis on YouTube video comments. The analysis revealed the most popular words and sentiments in the comments, highlighting viewer reactions to the video content.</div>
 <br>
